@@ -1,0 +1,60 @@
+name: french
+sections:
+- name: Section 1
+  units:
+  - lessons: 3
+  - lessons: 4
+  - lessons: 4
+  - lessons: 5
+  - lessons: 5
+  - lessons: 6
+  - lessons: 6
+  - lessons: 7
+  - lessons: 6
+  - lessons: 6
+- name: Section 2
+  units:
+  - lessons: 7
+  - lessons: 9
+  - lessons: 8
+  - lessons: 8
+  - lessons: 10
+  - lessons: 8
+  - lessons: 9
+  - lessons: 9
+  - lessons: 8
+  - lessons: 9
+  - lessons: 9
+  - lessons: 10
+  - lessons: 9
+  - lessons: 9
+  - lessons: 8
+  - lessons: 9
+  - lessons: 8
+  - lessons: 9
+  - lessons: 10
+  - lessons: 7
+  - lessons: 9
+  - lessons: 9
+- name: Section 3
+  units:
+  - lessons: 9
+  - lessons: 9
+  - lessons: 7
+  - lessons: 8
+  - lessons: 10
+  - lessons: 8
+  - lessons: 8
+  - lessons: 9
+  - lessons: 9
+  - lessons: 7
+- name: Section 4
+  units: []
+- name: Section 5
+  units: []
+- name: Section 6
+  units: []
+- name: Section 7
+  units: []
+- name: Section 8
+  units: []
