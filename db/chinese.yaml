@@ -1,0 +1,9 @@
+
+name: chinese
+
+sections:
+- name: Section 1
+  units:
+  - lessons: 3
+  - lessons: 3
+  - lessons: 3
